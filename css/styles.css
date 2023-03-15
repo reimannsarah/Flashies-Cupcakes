@@ -9,6 +9,7 @@ body {
     font-size: 20px;
     font-family: Shadows Into Light, monospace;
     text-align: center;
+    background-color: lightpink;
 }
 
 ul {
@@ -23,4 +24,8 @@ ul {
 
 .price {
     color: teal;
+}
+
+#best {
+    color: purple;
 }
