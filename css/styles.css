@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Tilt+Prism&display=swap');
+h1 {
+    font-family: Tilt Prism, monospace;
+    font-size: 75px;
+    color: teal;
+}
+
+body {
+    font-size: 20px;
+    font-family: Shadows Into Light, monospace;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.flashy {
+    font-style: italic;
+    color: red;
+}
+
+.price {
+    color: teal;
+}
